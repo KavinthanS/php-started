@@ -16,6 +16,8 @@
 
 	include_once __DIR__."/template/footer.inc.php";
 
+	include_once __DIR__."";
+
 ?>
 
 
