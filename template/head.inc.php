@@ -21,7 +21,7 @@ $_php = [
     "Écrit en"=> ": C",
     "Extension de fichier"=> ": php et phar",
     "Licence : Licence libre:"=> "Licence PHP",
-    "Paradigmes" => : "Impératif, orienté objet, fonctionnel, procédural, réflexif et interprété",
+    "Paradigmes" => ": Impératif, orienté objet, fonctionnel, procédural, réflexif et interprété",
 
 ]
 foreach ($_php as $key => $value) {
